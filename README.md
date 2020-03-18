@@ -9,7 +9,7 @@ Idéia 1:
 Horta com auto irrigação (aproximadamente 4 plantas), Machine Learning, Controle de Umidade, Controle de temperatura, e cadeira de massagem, controle de pH e condutividade do solo
 
 Idéia 2:
-Carrinho de Mario Kart com controle por celular
+Lançador de bola para cachorros
 
 Idéia 3: 
 Tamagotchi
