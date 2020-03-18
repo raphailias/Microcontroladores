@@ -1,9 +1,9 @@
 # Microcontroladores
 Projeto Microcontroladores
 
-Raphael Elias 	16.00378-0
-Raphael Hungria 17.04015-9
-Júlia Catarina	16.00645-3
+Raphael Elias 	16.00378-0\n
+Raphael Hungria 17.04015-9\n
+Júlia Catarina	16.00645-3\n
 
 Idéia 1: 
 Horta com auto irrigação (aproximadamente 4 plantas), Machine Learning, Controle de Umidade, Controle de temperatura, e cadeira de massagem, controle de pH e condutividade do solo
