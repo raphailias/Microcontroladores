@@ -1,7 +1,7 @@
 # Microcontroladores
 Projeto Microcontroladores
 
-Raphael Elias 	16.00378-0
+Raphael Ilias 	16.00378-0
 
 Raphael Hungria 17.04015-9
 
@@ -14,7 +14,7 @@ Horta com auto irrigação (aproximadamente 4 plantas), Machine Learning, Contro
 
 Idéia 2:
 
-Lançador de bola para cachorros
+Robo Limpador de Chão, sensor de obstáculo,sensor de presença, GPS para localizar o robo
 
 Idéia 3: 
 
