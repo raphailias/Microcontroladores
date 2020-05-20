@@ -8,18 +8,22 @@ Raphael Hungria 17.04015-9
 Júlia Catarina	16.00645-3
 
 
-Idéia 1: 
+Ideia:
 
-Horta com auto irrigação (aproximadamente 4 plantas), Machine Learning, Controle de Umidade, Controle de temperatura, e cadeira de massagem, controle de pH e condutividade do solo
+Mini-Horta Estufa, sensor de umidade e temperatura do solo, bombeamento de água, sensor de luminosidade, iluminação por fitas de led, comunicação bluetooth.
 
-Idéia 2:
+Lista de Materiais:
 
-Robo Limpador de Chão, sensor de obstáculo,sensor de presença, GPS para localizar o robo
+Sensor de Umidade se Solo - Higrômetro x1
+Mini Bomba de Água - DCJT160 x1
+Sensor de Temperatura de Umidade - DTH11 x1
+Sensor de Luz - LDR x1
+Módulo Bluetooth - HM-10 x1
+Kit Jumper Macho Fêmea - MXF x1
+Kit Jumper Macho Macho - MXM X1
+BluePill (Microcontrolador) x1
+ProtoBoard x1
 
-Idéia 3: 
 
-Tamagotchi
 
-Idéia 4:
 
-Placa fotovoltáica que segue o movimento do sol
