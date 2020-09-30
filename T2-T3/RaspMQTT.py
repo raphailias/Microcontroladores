@@ -13,13 +13,13 @@ topico = '/v1.6/devices/dht11'
 devicelabel = "dht11"
 variablename1 = "temp"
 variablename2 = "umi"
-token = "BBFF-2CpQFojHzjQweOb3TRIYal2cLaCu2d"
+#token = ""
 devicelabel = "dht11"
 porta = 1883
 
 URL = "https://api.openweathermap.org/data/2.5/weather"
 PARAMS = {
-    'appid' : '0317bc9beed8c75fe5a3cb576349bd7b',
+   #'appid' : '',
     'lat'   : '-23.5537088',
     'lon'   : '-46.7086153', 
     'units' : 'metric'
