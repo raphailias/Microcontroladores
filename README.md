@@ -9,7 +9,7 @@ Júlia Catarina	16.00645-3
 
 T2/T3 -ClimaPI
 
-Dashboard com dados de temperatura, umidade, pressão e velocidade do vento. Leitura dos sensores com Rasberry PI, uso do Tkinter para criação de interface simples e uma Dashboard em Ubidots com transmição de dados em MQTT.
+Dashboard com dados de temperatura, umidade, pressão e velocidade do vento. Leitura dos sensores com Rasberry PI (temperatura e umidade) e consumo de API (velocidade do vento e pressão), uso do Tkinter para criação de interface simples e uma Dashboard em Ubidots com transmição de dados em MQTT.
 
 T1 -RobsonPI
 
