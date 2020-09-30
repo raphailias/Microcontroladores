@@ -7,22 +7,14 @@ Raphael Hungria 17.04015-9
 
 Júlia Catarina	16.00645-3
 
+T2/T3 -ClimaPI
 
-Ideia:
+Dashboard com dados de temperatura, umidade, pressão e velocidade do vento. Leitura dos sensores com Rasberry PI, uso do Tkinter para criação de interface simples e uma Dashboard em Ubidots com transmição de dados em MQTT.
 
-Mini-Horta Estufa, sensor de umidade e temperatura do solo, bombeamento de água, sensor de luminosidade, iluminação por fitas de led, comunicação bluetooth.
+T1 -RobsonPI
 
-Lista de Materiais:
+Monitoramento de uma planta a partir do microcontrolador bluepill, leitura de dados como umidade do solo, luz ambiente, temperatura e umidade ambiente, o microcontrolador usará estes dados para analisar a necessidade de acender as luzes e regar a planta.
 
-Sensor de Umidade se Solo - Higrômetro x1
-Mini Bomba de Água - DCJT160 x1
-Sensor de Temperatura de Umidade - DTH11 x1
-Sensor de Luz - LDR x1
-Módulo Bluetooth - HM-10 x1
-Kit Jumper Macho Fêmea - MXF x1
-Kit Jumper Macho Macho - MXM X1
-BluePill (Microcontrolador) x1
-ProtoBoard x1
 
 
 
